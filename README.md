@@ -1,16 +1,40 @@
-## Olá! Me chamo Clara Fagundes
+# 👋 Olá! Eu me chamo Clara Fagundes!
 
-<!--
-**clara-fagundes/clara-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
 
-Here are some ideas to get you started:
+🎓 Estudante de **Sistemas de Informação**  
+💻 Técnica em **Análise e Desenvolvimento de Sistemas (ADS)**  
+👩‍💻 Estagiária em **Desenvolvimento de Software**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonada por tecnologia e desenvolvimento, sempre buscando aprender novas ferramentas e transformar ideias em soluções através da programação. Atualmente, venho desenvolvendo minhas habilidades em desenvolvimento web, criação de interfaces e desenvolvimento de aplicações.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+💻 **Desenvolvimento Web:**  
+HTML • CSS • JavaScript • React • PHP
+
+🌐 **Outras Tecnologias:**  
+WordPress • Git • GitHub
+
+🎨 **Design & Prototipagem:**  
+Figma
+
+---
+
+### 🌱 Atualmente
+
+- 🚀 Aprimorando meus conhecimentos em Desenvolvimento de Software
+- 💻 Criando projetos para desenvolver minhas habilidades
+- 📚 Estudando novas tecnologias e boas práticas de programação
+- 🤝 Sempre aberta a aprender e compartilhar conhecimento
+
+---
+
+### 📫 Vamos nos conectar?
+
+💼 LinkedIn: www.linkedin.com/in/clara-fagundes 
+📧 E-mail: cfagundes236@gmail.com
+
+✨ *Transformando café ☕ e código 💻 em novas possibilidades.*
