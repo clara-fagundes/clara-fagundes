@@ -1,40 +1,49 @@
-# 👋 Olá! Eu me chamo Clara Fagundes!
+<!-- HEADER DO PERFIL -->
+# Olá, eu sou Clara Fagundes 👋
 
-### 🚀 Sobre mim
-
-🎓 Estudante de **Sistemas de Informação**  
-💻 Técnica em **Análise e Desenvolvimento de Sistemas (ADS)**  
-👩‍💻 Estagiária em **Desenvolvimento de Software**  
-
-Sou apaixonada por tecnologia e desenvolvimento, sempre buscando aprender novas ferramentas e transformar ideias em soluções através da programação. Atualmente, venho desenvolvendo minhas habilidades em desenvolvimento web, criação de interfaces e desenvolvimento de aplicações.
+### **Estudante de Sistemas de Informação | Técnica em ADS | Estagiária em Desenvolvimento de Software**
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🚀 Sobre Mim
 
-💻 **Desenvolvimento Web:**  
-HTML • CSS • JavaScript • React • PHP
-
-🌐 **Outras Tecnologias:**  
-WordPress • Git • GitHub
-
-🎨 **Design & Prototipagem:**  
-Figma
+- 🎓 Atualmente cursando **Sistemas de Informação**
+- 💻 Formação técnica em **Análise e Desenvolvimento de Sistemas (ADS)**
+- 👩‍💻 Atualmente atuando como **Estagiária em Desenvolvimento de Software**
+- 🎯 Foco de aprendizado: **Desenvolvimento Web e Desenvolvimento de Software**
+- ⚡ Busco evoluir constantemente através de projetos, estudos e experiências práticas
+- 📫 Contato Profissional: **[Seu Email]** | **[Seu LinkedIn]**
 
 ---
 
-### 🌱 Atualmente
+### 🛠 Stack Tecnológica & Ferramentas
 
-- 🚀 Aprimorando meus conhecimentos em Desenvolvimento de Software
-- 💻 Criando projetos para desenvolver minhas habilidades
-- 📚 Estudando novas tecnologias e boas práticas de programação
-- 🤝 Sempre aberta a aprender e compartilhar conhecimento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📊 Estatísticas e Atividade Técnica
 
-💼 LinkedIn: www.linkedin.com/in/clara-fagundes 
-📧 E-mail: cfagundes236@gmail.com
+<div align="center">
 
-✨ *Transformando café ☕ e código 💻 em novas possibilidades.*
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    width="48%"
+  />
+
+</div>
