@@ -12,7 +12,7 @@
 - 👩‍💻 Atualmente atuando como **Estagiária em Desenvolvimento de Software**
 - 🎯 Foco de aprendizado: **Desenvolvimento Web e Desenvolvimento de Software**
 - ⚡ Busco evoluir constantemente através de projetos, estudos e experiências práticas
-- 📫 Contato Profissional: **[Seu Email]** | **[Seu LinkedIn]**
+- 📫 Contato Profissional: **cfagundes236@gmail.com** | **www.linkedin.com/in/clara-fagundes**
 
 ---
 
