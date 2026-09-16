@@ -7,7 +7,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🎓 Atualmente cursando **Sistemas de Informação**
+- 🎓 Graduanda em **Sistemas de Informação**
 - 💻 Formação técnica em **Análise e Desenvolvimento de Sistemas (ADS)**
 - 👩‍💻 Atualmente atuando como **Estagiária em Desenvolvimento de Software**
 - 🎯 Foco de aprendizado: **Desenvolvimento Web e Desenvolvimento de Software**
@@ -29,7 +29,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
+<!--
 ### 📊 Estatísticas e Atividade Técnica
 
 <div align="center">
@@ -47,3 +47,4 @@
   />
 
 </div>
+-->
